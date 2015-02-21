@@ -1,0 +1,13 @@
+C:\Users\Evan\Documents\Visual Studio 2008\Projects\EasyStorageProj\Sample\bin\x86\Debug\Sample.exe
+C:\Users\Evan\Documents\Visual Studio 2008\Projects\EasyStorageProj\Sample\bin\x86\Debug\Sample.pdb
+C:\Users\Evan\Documents\Visual Studio 2008\Projects\EasyStorageProj\Sample\bin\x86\Debug\EasyStorage.dll
+C:\Users\Evan\Documents\Visual Studio 2008\Projects\EasyStorageProj\Sample\bin\x86\Debug\EasyStorage.pdb
+C:\Users\Evan\Documents\Visual Studio 2008\Projects\EasyStorageProj\Sample\bin\x86\Debug\de\EasyStorage.resources.dll
+C:\Users\Evan\Documents\Visual Studio 2008\Projects\EasyStorageProj\Sample\bin\x86\Debug\es\EasyStorage.resources.dll
+C:\Users\Evan\Documents\Visual Studio 2008\Projects\EasyStorageProj\Sample\bin\x86\Debug\fr\EasyStorage.resources.dll
+C:\Users\Evan\Documents\Visual Studio 2008\Projects\EasyStorageProj\Sample\bin\x86\Debug\it\EasyStorage.resources.dll
+C:\Users\Evan\Documents\Visual Studio 2008\Projects\EasyStorageProj\Sample\bin\x86\Debug\ja\EasyStorage.resources.dll
+C:\Users\Evan\Documents\Visual Studio 2008\Projects\EasyStorageProj\Sample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Evan\Documents\Visual Studio 2008\Projects\EasyStorageProj\Sample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Evan\Documents\Visual Studio 2008\Projects\EasyStorageProj\Sample\obj\x86\Debug\Sample.exe
+C:\Users\Evan\Documents\Visual Studio 2008\Projects\EasyStorageProj\Sample\obj\x86\Debug\Sample.pdb

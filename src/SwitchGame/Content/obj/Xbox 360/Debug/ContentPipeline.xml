@@ -1,0 +1,1289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\gradient.xnb</Output>
+      <Time>2010-07-12T21:08:53.8495558-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Backgrounds\blue.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Backgrounds\blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Backgrounds\blue.xnb</Output>
+      <Time>2010-07-06T19:48:10.0870185-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Backgrounds\cap_tan.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Backgrounds\cap_tan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Backgrounds\cap_tan.xnb</Output>
+      <Time>2010-07-06T19:48:10.0540166-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Backgrounds\green.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Backgrounds\green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Backgrounds\green.xnb</Output>
+      <Time>2010-07-06T19:48:10.0510165-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Backgrounds\mult_green.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Backgrounds\mult_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Backgrounds\mult_green.xnb</Output>
+      <Time>2010-07-06T19:48:10.0520165-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Backgrounds\mult_orange.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Backgrounds\mult_orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Backgrounds\mult_orange.xnb</Output>
+      <Time>2010-07-06T19:48:10.0490164-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Backgrounds\mult_purple.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Backgrounds\mult_purple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Backgrounds\mult_purple.xnb</Output>
+      <Time>2010-07-06T19:48:10.0890186-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Backgrounds\orange.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Backgrounds\orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Backgrounds\orange.xnb</Output>
+      <Time>2010-07-06T19:48:10.0910188-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Backgrounds\purple.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Backgrounds\purple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Backgrounds\purple.xnb</Output>
+      <Time>2010-07-06T19:48:10.0880186-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Backgrounds\red.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Backgrounds\red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Backgrounds\red.xnb</Output>
+      <Time>2010-07-06T19:48:10.0900187-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Backgrounds\teal.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Backgrounds\teal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Backgrounds\teal.xnb</Output>
+      <Time>2010-07-06T19:48:10.0550167-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\2x.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\2x</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\2x.xnb</Output>
+      <Time>2010-07-06T19:48:10.1920245-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\3x.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\3x</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\3x.xnb</Output>
+      <Time>2010-07-06T19:48:10.1940247-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\4x.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\4x</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\4x.xnb</Output>
+      <Time>2010-07-06T19:48:10.1960248-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\cap_bottom.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\cap_bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\cap_bottom.xnb</Output>
+      <Time>2010-07-06T19:48:10.1900244-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\cap_top.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\cap_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\cap_top.xnb</Output>
+      <Time>2010-07-06T19:48:10.1840241-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\crescent.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\crescent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\crescent.xnb</Output>
+      <Time>2010-07-06T19:48:10.1890244-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\diamond.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\diamond</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\diamond.xnb</Output>
+      <Time>2010-07-06T19:48:10.1980249-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\drop.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\drop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\drop.xnb</Output>
+      <Time>2010-07-06T19:48:10.183024-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\octagon.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\octagon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\octagon.xnb</Output>
+      <Time>2010-07-06T19:48:10.1950247-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\triangle.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\triangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\triangle.xnb</Output>
+      <Time>2010-07-06T19:48:10.1860242-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\wing_triangle.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\wing_triangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\wing_triangle.xnb</Output>
+      <Time>2010-07-06T19:48:10.1930246-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Backgrounds\mult_bronze.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Backgrounds\mult_bronze</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Backgrounds\mult_bronze.xnb</Output>
+      <Time>2010-07-06T21:35:41.2470038-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Backgrounds\mult_gold.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Backgrounds\mult_gold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Backgrounds\mult_gold.xnb</Output>
+      <Time>2010-07-06T21:35:41.251004-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Backgrounds\mult_silver.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Backgrounds\mult_silver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Backgrounds\mult_silver.xnb</Output>
+      <Time>2010-07-06T21:35:41.2490039-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\xboxControllerBack.tga</Source>
+      <Name>Sprites\ControllerImages\xboxControllerBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\xboxControllerBack.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\xboxControllerButtonA.tga</Source>
+      <Name>Sprites\ControllerImages\xboxControllerButtonA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\xboxControllerButtonA.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\xboxControllerButtonB.tga</Source>
+      <Name>Sprites\ControllerImages\xboxControllerButtonB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\xboxControllerButtonB.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\xboxControllerButtonGuide.tga</Source>
+      <Name>Sprites\ControllerImages\xboxControllerButtonGuide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\xboxControllerButtonGuide.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\xboxControllerButtonX.tga</Source>
+      <Name>Sprites\ControllerImages\xboxControllerButtonX</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\xboxControllerButtonX.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\xboxControllerButtonY.tga</Source>
+      <Name>Sprites\ControllerImages\xboxControllerButtonY</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\xboxControllerButtonY.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\xboxControllerDPad.tga</Source>
+      <Name>Sprites\ControllerImages\xboxControllerDPad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\xboxControllerDPad.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\xboxControllerLeftShoulder.tga</Source>
+      <Name>Sprites\ControllerImages\xboxControllerLeftShoulder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\xboxControllerLeftShoulder.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\xboxControllerLeftThumbstick.tga</Source>
+      <Name>Sprites\ControllerImages\xboxControllerLeftThumbstick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\xboxControllerLeftThumbstick.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\xboxControllerLeftTrigger.tga</Source>
+      <Name>Sprites\ControllerImages\xboxControllerLeftTrigger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\xboxControllerLeftTrigger.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\xboxControllerRightShoulder.tga</Source>
+      <Name>Sprites\ControllerImages\xboxControllerRightShoulder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\xboxControllerRightShoulder.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\xboxControllerRightThumbstick.tga</Source>
+      <Name>Sprites\ControllerImages\xboxControllerRightThumbstick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\xboxControllerRightThumbstick.xnb</Output>
+      <Time>2007-09-25T14:24:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\xboxControllerRightTrigger.tga</Source>
+      <Name>Sprites\ControllerImages\xboxControllerRightTrigger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\xboxControllerRightTrigger.xnb</Output>
+      <Time>2007-09-25T14:24:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\xboxControllerSpriteFont.tga</Source>
+      <Name>Sprites\ControllerImages\xboxControllerSpriteFont</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\xboxControllerSpriteFont.xnb</Output>
+      <Time>2007-09-25T14:24:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\xboxControllerStart.tga</Source>
+      <Name>Sprites\ControllerImages\xboxControllerStart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\xboxControllerStart.xnb</Output>
+      <Time>2007-09-25T14:24:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\powerbar-outline.png</Source>
+      <Name>Sprites\powerbar-outline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\powerbar-outline.xnb</Output>
+      <Time>2010-07-12T21:31:46.7280799-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\powerbar.png</Source>
+      <Name>Sprites\powerbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\powerbar.xnb</Output>
+      <Time>2010-07-11T14:34:57.943862-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\explosion-spritesheet.png</Source>
+      <Name>Sprites\Tiles\TileSet1\explosion-spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\explosion-spritesheet.xnb</Output>
+      <Time>2010-09-17T20:05:59.3739276-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\laser-spritesheet.png</Source>
+      <Name>Sprites\Tiles\TileSet1\laser-spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\laser-spritesheet.xnb</Output>
+      <Time>2010-09-12T21:54:53.7023718-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\gameboard.png</Source>
+      <Name>Sprites\BoardComponents\gameboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\gameboard.xnb</Output>
+      <Time>2010-09-21T15:06:43.3948422-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\powers.png</Source>
+      <Name>Sprites\BoardComponents\powers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\powers.xnb</Output>
+      <Time>2010-08-30T00:05:35.6765953-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\Powers\clock.png</Source>
+      <Name>Sprites\BoardComponents\Powers\clock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\Powers\clock.xnb</Output>
+      <Time>2010-08-08T17:10:29.4734389-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\Powers\clock_grey.png</Source>
+      <Name>Sprites\BoardComponents\Powers\clock_grey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\Powers\clock_grey.xnb</Output>
+      <Time>2010-08-08T17:10:29.3864339-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\Powers\clock_shadow.png</Source>
+      <Name>Sprites\BoardComponents\Powers\clock_shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\Powers\clock_shadow.xnb</Output>
+      <Time>2010-08-08T17:10:29.3834338-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\Powers\laser.png</Source>
+      <Name>Sprites\BoardComponents\Powers\laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\Powers\laser.xnb</Output>
+      <Time>2010-08-08T17:10:29.4694387-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\Powers\laser_grey.png</Source>
+      <Name>Sprites\BoardComponents\Powers\laser_grey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\Powers\laser_grey.xnb</Output>
+      <Time>2010-08-08T17:10:29.3824337-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\Powers\laser_shadow.png</Source>
+      <Name>Sprites\BoardComponents\Powers\laser_shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\Powers\laser_shadow.xnb</Output>
+      <Time>2010-08-08T17:10:29.474439-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\Powers\nuke.png</Source>
+      <Name>Sprites\BoardComponents\Powers\nuke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\Powers\nuke.xnb</Output>
+      <Time>2010-08-08T17:10:29.388434-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\Powers\nuke_grey.png</Source>
+      <Name>Sprites\BoardComponents\Powers\nuke_grey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\Powers\nuke_grey.xnb</Output>
+      <Time>2010-08-08T17:10:29.4714388-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\Powers\nuke_shadow.png</Source>
+      <Name>Sprites\BoardComponents\Powers\nuke_shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\Powers\nuke_shadow.xnb</Output>
+      <Time>2010-08-08T17:10:29.4704387-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\Powers\power_25.png</Source>
+      <Name>Sprites\BoardComponents\Powers\power_25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\Powers\power_25.xnb</Output>
+      <Time>2010-08-30T00:05:34.8445477-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\Powers\power_50.png</Source>
+      <Name>Sprites\BoardComponents\Powers\power_50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\Powers\power_50.xnb</Output>
+      <Time>2010-08-08T17:10:29.3854339-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\info_panels_challenges.png</Source>
+      <Name>Sprites\BoardComponents\info_panels_challenges</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\info_panels_challenges.xnb</Output>
+      <Time>2010-08-09T17:05:35.0003933-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\info_panels_score_attack.png</Source>
+      <Name>Sprites\BoardComponents\info_panels_score_attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\info_panels_score_attack.xnb</Output>
+      <Time>2010-08-09T17:05:34.9993933-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\con_front_ortho.png</Source>
+      <Name>Sprites\ControllerImages\con_front_ortho</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\con_front_ortho.xnb</Output>
+      <Time>2007-04-20T09:37:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\con_top_ortho.png</Source>
+      <Name>Sprites\ControllerImages\con_top_ortho</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\con_top_ortho.xnb</Output>
+      <Time>2007-03-14T18:36:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\con_top_persp1.png</Source>
+      <Name>Sprites\ControllerImages\con_top_persp1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\con_top_persp1.xnb</Output>
+      <Time>2007-03-14T18:35:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ControllerImages\con_top_persp2.png</Source>
+      <Name>Sprites\ControllerImages\con_top_persp2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\ControllerImages\con_top_persp2.xnb</Output>
+      <Time>2007-03-14T18:35:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\rotater-idle.png</Source>
+      <Name>Sprites\Tiles\TileSet1\rotater-idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\rotater-idle.xnb</Output>
+      <Time>2010-08-30T22:49:45.9730683-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\IdleAnimations\diamond-spritesheet.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\IdleAnimations\diamond-spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\IdleAnimations\diamond-spritesheet.xnb</Output>
+      <Time>2010-08-30T22:49:45.9640677-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\IdleAnimations\crescent-spritesheet.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\IdleAnimations\crescent-spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\IdleAnimations\crescent-spritesheet.xnb</Output>
+      <Time>2010-08-30T22:49:45.9560673-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\IdleAnimations\drop-spritesheet.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\IdleAnimations\drop-spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\IdleAnimations\drop-spritesheet.xnb</Output>
+      <Time>2010-08-30T22:49:45.9500669-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\IdleAnimations\octagon-spritesheet.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\IdleAnimations\octagon-spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\IdleAnimations\octagon-spritesheet.xnb</Output>
+      <Time>2010-08-30T22:49:45.9620676-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\IdleAnimations\triangle-spritesheet.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\IdleAnimations\triangle-spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\IdleAnimations\triangle-spritesheet.xnb</Output>
+      <Time>2010-08-30T22:49:45.9540672-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\IdleAnimations\wing-spritesheet.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\IdleAnimations\wing-spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\IdleAnimations\wing-spritesheet.xnb</Output>
+      <Time>2010-08-30T22:49:45.9600675-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\IdleAnimations\cap_bottom-spritesheet.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\IdleAnimations\cap_bottom-spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\IdleAnimations\cap_bottom-spritesheet.xnb</Output>
+      <Time>2010-08-30T22:49:45.9580674-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\Objects\IdleAnimations\cap_top-spritesheet.png</Source>
+      <Name>Sprites\Tiles\TileSet1\Objects\IdleAnimations\cap_top-spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\Objects\IdleAnimations\cap_top-spritesheet.xnb</Output>
+      <Time>2010-08-30T22:49:45.9520671-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\rotater-spritesheet.png</Source>
+      <Name>Sprites\Tiles\TileSet1\rotater-spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\rotater-spritesheet.xnb</Output>
+      <Time>2010-09-07T17:12:32.4485466-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Title\logo.png</Source>
+      <Name>Sprites\Title\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Title\logo.xnb</Output>
+      <Time>2010-09-12T20:18:57.7436292-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\Powers\2-player-scorebar.png</Source>
+      <Name>Sprites\BoardComponents\Powers\2-player-scorebar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\Powers\2-player-scorebar.xnb</Output>
+      <Time>2010-09-21T15:06:43.444845-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\twoplayerbattle_powers.png</Source>
+      <Name>Sprites\BoardComponents\twoplayerbattle_powers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\twoplayerbattle_powers.xnb</Output>
+      <Time>2010-09-21T15:06:43.4108431-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\TileSet1\nuke-image.png</Source>
+      <Name>Sprites\Tiles\TileSet1\nuke-image</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Tiles\TileSet1\nuke-image.xnb</Output>
+      <Time>2010-09-21T15:06:41.0295152-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Title\switch_logo.png</Source>
+      <Name>Sprites\Title\switch_logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Title\switch_logo.xnb</Output>
+      <Time>2010-10-29T09:23:22.4431448-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\Powers\bullet_time_time_bar.png</Source>
+      <Name>Sprites\BoardComponents\Powers\bullet_time_time_bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\Powers\bullet_time_time_bar.xnb</Output>
+      <Time>2010-09-21T15:06:37.0172946-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\background-light-black.png</Source>
+      <Name>Sprites\background-light-black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\background-light-black.xnb</Output>
+      <Time>2010-10-17T20:34:39.2902193-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Title\main-menu-background.png</Source>
+      <Name>Sprites\Title\main-menu-background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Title\main-menu-background.xnb</Output>
+      <Time>2010-10-19T15:13:24.1255024-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Title\BlurredTiles\blue.png</Source>
+      <Name>Sprites\Title\BlurredTiles\blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Title\BlurredTiles\blue.xnb</Output>
+      <Time>2010-10-19T12:47:49.5866541-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Title\BlurredTiles\green.png</Source>
+      <Name>Sprites\Title\BlurredTiles\green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Title\BlurredTiles\green.xnb</Output>
+      <Time>2010-10-19T12:47:49.5826539-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Title\BlurredTiles\orange.png</Source>
+      <Name>Sprites\Title\BlurredTiles\orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Title\BlurredTiles\orange.xnb</Output>
+      <Time>2010-10-19T12:47:49.5916544-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Title\BlurredTiles\purple.png</Source>
+      <Name>Sprites\Title\BlurredTiles\purple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Title\BlurredTiles\purple.xnb</Output>
+      <Time>2010-10-20T22:04:46.0506151-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Title\BlurredTiles\red.png</Source>
+      <Name>Sprites\Title\BlurredTiles\red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Title\BlurredTiles\red.xnb</Output>
+      <Time>2010-10-19T12:47:49.5896543-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Title\BlurredTiles\teal.png</Source>
+      <Name>Sprites\Title\BlurredTiles\teal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Title\BlurredTiles\teal.xnb</Output>
+      <Time>2010-10-19T12:47:49.584654-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Help\high_scores.png</Source>
+      <Name>Sprites\Help\high_scores</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Help\high_scores.xnb</Output>
+      <Time>2010-10-19T12:47:50.7327197-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Help\help_controls.png</Source>
+      <Name>Sprites\Help\help_controls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Help\help_controls.xnb</Output>
+      <Time>2010-11-21T21:22:48.4096657-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Help\help_powers.png</Source>
+      <Name>Sprites\Help\help_powers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Help\help_powers.xnb</Output>
+      <Time>2010-11-21T21:22:48.4036654-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Help\credits.png</Source>
+      <Name>Sprites\Help\credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Help\credits.xnb</Output>
+      <Time>2010-10-19T12:47:50.7317196-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Help\menu_title_background.png</Source>
+      <Name>Sprites\Help\menu_title_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Help\menu_title_background.xnb</Output>
+      <Time>2010-11-04T23:26:11.9165455-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Help\help_main_menu_icon.png</Source>
+      <Name>Sprites\Help\help_main_menu_icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Help\help_main_menu_icon.xnb</Output>
+      <Time>2010-11-04T23:21:09.4365942-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Help\evan.png</Source>
+      <Name>Sprites\Help\evan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Help\evan.xnb</Output>
+      <Time>2010-11-04T23:21:09.4385943-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Help\kristian.png</Source>
+      <Name>Sprites\Help\kristian</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Help\kristian.xnb</Output>
+      <Time>2010-11-04T23:21:09.4325939-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Title\wide_blank_background.png</Source>
+      <Name>Sprites\Title\wide_blank_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Title\wide_blank_background.xnb</Output>
+      <Time>2010-11-04T23:21:09.4185931-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\blank.xnb</Output>
+      <Time>2010-07-03T10:58:53.6866459-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Help\controller_select.png</Source>
+      <Name>Sprites\Help\controller_select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Help\controller_select.xnb</Output>
+      <Time>2010-11-21T11:57:23.027275-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\checkbox-checked.png</Source>
+      <Name>Sprites\checkbox-checked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\checkbox-checked.xnb</Output>
+      <Time>2010-11-21T11:57:23.1672752-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\checkbox.png</Source>
+      <Name>Sprites\checkbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\checkbox.xnb</Output>
+      <Time>2010-11-21T11:57:23.1672752-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\background.jpg</Source>
+      <Name>Sprites\BoardComponents\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\background.xnb</Output>
+      <Time>2010-11-21T12:32:41.2194641-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Title\challenge-background.png</Source>
+      <Name>Sprites\Title\challenge-background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Title\challenge-background.xnb</Output>
+      <Time>2010-11-21T21:22:48.536673-05:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\menufont.xnb</Output>
+      <Time>2010-07-03T10:58:53.6856459-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\PhillySansFont.spritefont</Source>
+      <Name>Fonts\PhillySansFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Fonts\PhillySansFont.xnb</Output>
+      <Time>2010-09-05T13:17:54.1652302-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\WeaponsDisplayFont.spritefont</Source>
+      <Name>Fonts\WeaponsDisplayFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Fonts\WeaponsDisplayFont.xnb</Output>
+      <Time>2010-09-05T13:14:39.5220972-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ScoreFont.spritefont</Source>
+      <Name>Fonts\ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Fonts\ScoreFont.xnb</Output>
+      <Time>2010-09-05T13:14:39.6461043-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ScoreMessageBoxFont.spritefont</Source>
+      <Name>Fonts\ScoreMessageBoxFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Fonts\ScoreMessageBoxFont.xnb</Output>
+      <Time>2010-09-05T13:14:39.5911012-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TinyDebuggingFont.spritefont</Source>
+      <Name>Fonts\TinyDebuggingFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Fonts\TinyDebuggingFont.xnb</Output>
+      <Time>2010-09-21T11:22:05.7802162-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ReadySetGoFont.spritefont</Source>
+      <Name>Fonts\ReadySetGoFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Fonts\ReadySetGoFont.xnb</Output>
+      <Time>2010-11-17T09:12:59.8933052-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Effects\flip.wav</Source>
+      <Name>Sound\Effects\flip</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Effects\flip.xnb</Output>
+      <Time>2010-08-16T22:58:01.930151-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Effects\laser.wav</Source>
+      <Name>Sound\Effects\laser</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Effects\laser.xnb</Output>
+      <Time>2010-08-16T23:38:45.2579013-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Effects\bullettime.wav</Source>
+      <Name>Sound\Effects\bullettime</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Effects\bullettime.xnb</Output>
+      <Time>2010-11-24T14:16:57.9191955-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Effects\nuke-explode.wav</Source>
+      <Name>Sound\Effects\nuke-explode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Effects\nuke-explode.xnb</Output>
+      <Time>2010-08-18T23:42:07.530579-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Effects\levelup.wav</Source>
+      <Name>Sound\Effects\levelup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Effects\levelup.xnb</Output>
+      <Time>2010-08-18T23:47:05.1776034-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Effects\menu-select.wav</Source>
+      <Name>Sound\Effects\menu-select</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Effects\menu-select.xnb</Output>
+      <Time>2010-08-18T23:53:31.4206953-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Effects\menu-select2.wav</Source>
+      <Name>Sound\Effects\menu-select2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Effects\menu-select2.xnb</Output>
+      <Time>2010-08-19T00:00:15.2127909-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Effects\wombat-growl.wav</Source>
+      <Name>Sound\Effects\wombat-growl</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Effects\wombat-growl.xnb</Output>
+      <Time>2010-11-24T14:18:49.0965545-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Effects\explode-tile.wav</Source>
+      <Name>Sound\Effects\explode-tile</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Effects\explode-tile.xnb</Output>
+      <Time>2010-09-25T21:27:47.964706-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Effects\go.wav</Source>
+      <Name>Sound\Effects\go</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Effects\go.xnb</Output>
+      <Time>2010-11-24T14:17:44.590865-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Effects\readySet.wav</Source>
+      <Name>Sound\Effects\readySet</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Effects\readySet.xnb</Output>
+      <Time>2010-11-17T09:17:31.8646779-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Effects\2p-alarm.wav</Source>
+      <Name>Sound\Effects\2p-alarm</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Effects\2p-alarm.xnb</Output>
+      <Time>2010-11-17T19:19:16.3215212-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Effects\game-over.wav</Source>
+      <Name>Sound\Effects\game-over</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Effects\game-over.xnb</Output>
+      <Time>2010-11-24T14:12:53.1891978-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Effects\player-select.wav</Source>
+      <Name>Sound\Effects\player-select</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Effects\player-select.xnb</Output>
+      <Time>2010-11-20T10:13:13.626188-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Music\HouseMoFo.mp3</Source>
+      <Name>Sound\Music\HouseMoFo</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Music\HouseMoFo.xnb</Output>
+      <Extra>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Music\HouseMoFo.wma</Extra>
+      <Time>2010-11-24T14:24:43.2879635-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Music\Religions.mp3</Source>
+      <Name>Sound\Music\Religions</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Music\Religions.xnb</Output>
+      <Extra>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sound\Music\Religions.wma</Extra>
+      <Time>2010-09-21T15:02:26.3397277-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\refraction.fx</Source>
+      <Name>Effects\refraction</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Effects\refraction.xnb</Output>
+      <Time>2010-09-02T18:27:48.5565666-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\wave.fx</Source>
+      <Name>Effects\wave</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Effects\wave.xnb</Output>
+      <Time>2010-09-03T22:22:03.9696378-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\loading.png</Source>
+      <Name>Sprites\loading</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\loading.xnb</Output>
+      <Time>2010-12-03T18:28:13.4395042-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\ReadySetGo\go.png</Source>
+      <Name>Sprites\BoardComponents\ReadySetGo\go</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\ReadySetGo\go.xnb</Output>
+      <Time>2010-12-03T22:39:18.7102027-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\ReadySetGo\ready.png</Source>
+      <Name>Sprites\BoardComponents\ReadySetGo\ready</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\ReadySetGo\ready.xnb</Output>
+      <Time>2010-12-03T22:39:18.7072025-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardComponents\ReadySetGo\set.png</Source>
+      <Name>Sprites\BoardComponents\ReadySetGo\set</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\BoardComponents\ReadySetGo\set.xnb</Output>
+      <Time>2010-12-03T22:39:18.7122028-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Title\gameover.png</Source>
+      <Name>Sprites\Title\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Title\gameover.xnb</Output>
+      <Time>2010-12-05T23:10:47.0053645-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Title\paused.png</Source>
+      <Name>Sprites\Title\paused</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Title\paused.xnb</Output>
+      <Time>2010-12-05T23:10:47.0073646-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Title\challengecompleted.png</Source>
+      <Name>Sprites\Title\challengecompleted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Title\challengecompleted.xnb</Output>
+      <Time>2010-12-05T23:56:30.1893584-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Help\help-2p-overview.png</Source>
+      <Name>Sprites\Help\help-2p-overview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Help\help-2p-overview.xnb</Output>
+      <Time>2010-12-07T17:25:40.5522548-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Help\help-2p-scoring.png</Source>
+      <Name>Sprites\Help\help-2p-scoring</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Help\help-2p-scoring.xnb</Output>
+      <Time>2010-12-07T17:25:40.5342538-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Help\help-movement.png</Source>
+      <Name>Sprites\Help\help-movement</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Help\help-movement.xnb</Output>
+      <Time>2010-12-07T17:25:40.5182528-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Help\help-scoring.png</Source>
+      <Name>Sprites\Help\help-scoring</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\Sprites\Help\help-scoring.xnb</Output>
+      <Time>2010-12-07T17:25:40.5492546-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Evan\Documents\Visual Studio 2008\Projects\switch\trunk\src\SwitchGame\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-06-09T20:57:23.975655-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,99 @@
+SWITCH - The Best Puzzle Game Since That Last One That Other Guy Made
+--------------------------------------------------------------------------
+
+
+Main Menu
+---------
+
+
+SWITCH
+
+1P Score Attack
+1P Challenges
+2P Battle
+Options
+High Scores
+Credits
+Quit
+
+
+Mode - 1P Score Attack
+----------------------
+1-player mode. Player plays a puzzle, starting at a very slow level. As time goes on, level speed and piece difficulty increases until player finally fails.
+
+
+Mode - 1P Challenge Mode
+------------------------
+1-player mode. Player can choose from 12 different challenges to complete. Examples would be: Clear the board completely, Fire a nuke, Make bullet time last a full minute, Obtain a score of 100,000 on one level, survive a very fast level for 180 seconds without dying, etc.
+
+
+Mode - 2P Battle Mode
+----------------
+2-player mode. Players play on side-by-side boards. Each match that a player makes drops an extra piece on their opponent. Completing a "yoshi egg" drops two extra pieces. First player to lose is the loser. Special moves and weapons are available. Holding "LT" or "RT" while triggering a move causes it to be dropped on your opponent in a negative fashion (ie: bullet-time slows down time for you but speeds up time for your opponent, etc).
+
+
+Options
+-------
+Turn music on and off, set volumes, etc.
+
+
+High Scores
+-----------
+Show a screen with high scores for each mode. These scores should be persistant even after quitting the game.
+
+
+Credits
+-------
+The credits.
+
+
+Quit
+----
+Quit back to the 360 dashboard.
+
+
+General Gameplay in Puzzle Modes
+--------------------------------
+Basic gameplay will be identical to the NES game "Yoshi" (http://www.youtube.com/watch?v=HVWuFa4ySPw). New concepts are that completeing a "Yoshi egg" will fill up a little bit of a power bar displayed on the screen. This power bar will allow the player to execute special moves or attacks to help them complete their puzzle. Special moves will include:
+
+"Bullet Time" - Slows down the speed of the falling pieces and gives double points for as long as it is active. Lasts 20 seconds. Costs 25% of the power bar.
+"Precision Strike" - Obliterates any columns that are currently being touched and the player recieves full points for their destruction (ie: the player is always targeting 2 of the 4 columns. When this ability is fired, those two will be cleared). Costs 50% of the power bar.
+"Nuke!" - Clears the entire screen. Player recieves double points for every piece removed from the screen.
+
+In addition, multiplier tiles will appear on occasion. If these blocks land on a column that does NOT have a bottom capper below it, it will disappear and be worth no points. If it lands in a column that DOES have a bottom capper below it, it will remain. When that column is capped, the points will be worth x2, x3 or x4 based on which multiplier(s) were in it.
+
+
+Controls
+--------
+Menu Screen - D-Pad moves the cursor up and down. "A", "X", "B" or "Y" select the current option.
+
+Game Mode - D-Pad moves the player control at the bottom of the playing field left and right. The "A" button causes the columns to swap on the two columns that are currently selected. "X" triggers bullet time if it is available. "Y" triggers precision strike if it is available. "B" triggers the nuke if it is available.
+
+
+Coding Schedule
+---------------
+* June 13th - Finish Taking XNA beginners guide 2D tutorial
+* June 20st - Finish aquiring basic C#/.NET knowledge and finish looking through any additional XNA documentation
+* June 27th - Finish mocking out basic gameplay so that we can playtest and decide if it works and make tweaks
+* July 4th - Finish stubbing out new project and creating main menu.
+July 25th - Finish creating 1P attack mode, minus any ability to record high scores
+August 22th - Finish Creating 2P battle mode
+Sept 17th - Finish creating 1P challenge mode, minus all the artwork (bug Kristian to do that stuff)
+October 3rd - Finish creating the high scores screen
+October 31st - Finish playtesting and proceed to release
+
+
+Arting Schedule
+---------------
+June 4th - Finish title screen logo
+Beyond - TBD
+
+
+Music & Effects
+---------------
+- IndieGameMusic.com - Music
+- freesound.org - Effects?
+- http://gamecues.com/ - Effects?
+- http://www.indiesfx.co.uk/ - Effects?
+- http://www.flashkit.com/soundfx/ - Effects?
+- http://www.drpetter.se/project_sfxr.html - Effects?
