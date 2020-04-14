@@ -4,6 +4,8 @@ https://www.grouvee.com/games/30785-switch/
 
 https://www.youtube.com/watch?v=4GWfi0Q9zrQ
 
+See https://github.com/elennick/switch-mono for the more modern port to Monogame.
+
 <p align="center">
   <img src="https://github.com/elennick/switch-xna/blob/master/art%20assets/boxart.jpg"/>
 </p>
